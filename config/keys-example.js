@@ -1,7 +1,9 @@
 module.exports = {
-    googleClientID: 'CLIENT_ID',
-    googleClientSecret: 'CLIENT_SECRET'
+  googleClientID: 'CLIENT_ID',
+  googleClientSecret: 'CLIENT_SECRET',
+  mongoURI: 'mongodb://connection_string',
+  cookieKey: 'random_string'
 };
 
-// 1- Replace CLIENT_ID and CLIENT_SECRET with google's Client ID and Secret
-// 1- Rename the file to keys.js
+// 1- Replace the dummy values
+// 2- Rename the file to keys.js
