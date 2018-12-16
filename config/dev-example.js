@@ -6,4 +6,4 @@ module.exports = {
 };
 
 // 1- Replace the dummy values
-// 2- Rename the file to keys.js
+// 2- Rename the file to dev.js
